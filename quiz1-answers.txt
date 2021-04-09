@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: Switching and forwarding relies on either one of hosts or ports having unique identifiers
+ab=
+# Question 'ac': True or false: Using hubs to connect multiple network switches helps avoid contention in a local area network
+ac=
+# Question 'ad': True or false: Interference avoidance in license-exempt frequencies relies on voluntary behaviours of devices that use these frequencies
+ad=
+# Question 'ae': True or false: A layered network model must have 7 layers corresponding to the OSI layered model
+ae=
+# Question 'af': True or false: The recv() function is used to receive data or a message over a socket
+af=
+# Question 'ag': True or false: When an ACK is received, the Sliding Window Size is increased by one
+ag=
+# Question 'ah': True or false: Having a larger Receiving Window Size than the Sending Window Size helps overcome out-of-order delivery of frames
+ah=
+# Question 'ai': True or false: Direct Sequence transmission involves the transmission of n-bit chopping codes that divides the signal across a frequency band that is n times wider
+ai=
+# Question 'aj': True or false: Placing binary data on a signal is called encoding
+aj=
+# Question 'ak': True or false: The presentation layer is responsible for the format of data exchanged between peers
+ak=
+# Question 'al': True or false: Ethernets are more complex to administer than most alternatives, in part because of their use of hubs and repeaters
+al=
+# Question 'am': True or false: If two nodes send an RTS frame at the same time a collision occurs which cannot be detected on an 802.11 network
+am=
+# Question 'an': True or false: Two-dimensional parity is able to catch all 1, 2, 3 and 4 bit errors.
+an=
+# Question 'ao': True or false: If a sender does not receive an acknowledgement after a reasonable amount of time, it resends the acknowledgement.
+ao=
+# Question 'ap': True or false: In the stop-and-wait protocol only one data frame can be pending acknowledgement at a time
+ap=
+# Question 'aq': True or false: Detecting that an error has occurred in a frame allows the error to be corrected, because binary values have only two values, allowing the incorrect to be flipped
+aq=
+# Question 'ar': True or false: The hidden node problem occurs when a node transmits only occasionally, thus remaining hidden from other transmitters until it transmits
+ar=
+# Question 'as': True or false: Wi-Fi is defined in the 802.11 standard
+as=
+# Question 'at': True or false: Request and Reply are the two most common types of communications channel
+at=
+# Question 'au': True or false: SOCK\_STREAM denotes a socket which is used to carry a stream of messages over the network
+au=
+# Question 'av': True or false: Ethernet is a decentralised network, which means it is possible that two or more adaptors to begin transmitting at the same time
+av=
+# Question 'aw': True or false: Error correction codes typically incur too high an overhead to be attractive
+aw=
+# Question 'ax': True or false: BISYNC's sentinel characters are used to synchronise the start of a frame
+ax=
+# Question 'ay': True or false: The Sliding Window protocol tends to slow down if packets are lost
+ay=
+# Question 'az': True or false: Both sender and receiver must implement the same error detection algorithm
+az=
+# Question 'ba': True or false: CRCs are a common technique for correcting transmission errors
+ba=
+# Question 'bb': True or false: Technical factors, such as new technologies, are effectively the sole driver of evolution in networks
+bb=
+# Question 'bc': True or false: Switching tables and routing tables are different names for essentially the same structure
+bc=
+# Question 'bd': True or false: 4B/5B encoding cannot encode certain 5 bit input sequences, because they contain too many consecutive 1s or 0s
+bd=
+# Question 'be': True or false: If an Ethernet is idle, a node with a frame to send will wait a short random period of time before sending the frame, to help avoid packet collisions
+be=
+# Question 'bf': True or false: In 802.11, the term active scanning refers to the way in which access points actively scan for new clients
+bf=
+# Question 'bg': True or false: Switches can implement either datagram or virtual circuit approaches
+bg=
+# Question 'bh': True or false: Ethernet is available in a range of speeds
+bh=
+# Question 'bi': True or false: Congestion is a cause of packet loss
+bi=
+# Question 'bj': True or false: NRZI encoding solves the problem of sending consecutive 0s
+bj=
+# Question 'bk': True or false: An Application Programmer is responsible for specifying the needs of their applications
+bk=
+# Question 'bl': True or false: 802.11 uses Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+bl=
+# Question 'bm': True or false: Ethernet frames can be anywhere between 1 and 1500 bytes long
+bm=
+# Question 'bn': True or false: video-conferencing is an example of an application of computer networking
+bn=
+# Question 'bo': True or false: DDCMP (Digital Data Communications Protocol) is a byte-oriented framing protocol
+bo=
+# Question 'bp': True or false: Two-dimensional parity calculates both odd and even parity for each each byte to increase its strength
+bp=
+# Question 'bq': True or false: Frequency hopping requires the use of a pseudo-random frequency sequence which must be known to both the sender and receiver
+bq=
+# Question 'br': True or false: Only if the sequence number less than the Largest Acceptable Frame it will be accepted
+br=
+# Question 'bs': True or false: Most widely used wireless links are asymmetric in the devices that participate
+bs=
+# Question 'bt': True or false: Baseline wander is a problem with NRZ encoding
+bt=
+# Question 'bu': True or false: In 802.11, the control field contains flags to indicate whether a frame is an RTS or CTS frame
+bu=
+# Question 'bv': True or false: URL stands for uniform resource location
+bv=
+# Question 'bw': True or false: In 802.11, if a client receives a beacon from an access point with a stronger signal, it will send a probe frame to determine if it can switch to that access point.
+bw=
+# Question 'bx': True or false: Very strong transmission error detection can normally be provided using very few additional bits compared with the size of the data
+bx=
+# Question 'by': True or false: The bandwidth delay product does not affect the optimal size of the sliding window
+by=
+# Question 'bz': True or false: 4B/5B encoding solves the problem of sending consecutive 1s or 0s
+bz=
+# Question 'ca': True or false: The data link layer is above the network layer in the OSI network stack
+ca=
+# Question 'cb': True or false: The network API is called by the operating system to connect to different applications
+cb=
+# Question 'cc': True or false: In a connectionless network the failure of any given switch need not have serious effect on the network if there are alternative paths available
+cc=
+# Question 'cd': True or false: In 802.11, access points respond to client association requests with an association response frame
+cd=
+# Question 'ce': True or false: Frequency allocations for wireless communications are made by the Internet Engineering Task Force
+ce=
+# Question 'cf': True or false: A Protocol Specification may be expressed in written form, or in pseudo-code
+cf=
+# Question 'cg': True or false: Fibre-optics typically uses frequencies that are in the X-Ray band
+cg=
+# Question 'ch': True or false: If a node receives an RTS frame, but not a CTS frame, it must wait for a timeout to occur, and then transmit a NACK
+ch=
+# Question 'ci': True or false: Variation in latency is a problem for audio/video conferencing
+ci=
+# Question 'cj': True or false: Synchronous Time-division Multiplexing is a method for sharing a link
+cj=
+# Question 'ck': True or false: A bit transmitted at a speed of 1Mbps would have an effective width of 1 micro second
+ck=
+# Question 'cl': True or false: Wireless links transmit using electromagnetic signals, typically at gamma wavelengths, especially for gigabit speeds
+cl=
+# Question 'cm': True or false: Wireless technologies differ considerably in the bandwidth and range of communications that they facilitate
+cm=
+# Question 'cn': True or false: The international standard for CRC generator polynomials is to allocate a unique generator polynomial each time one is required
+cn=
+# Question 'co': True or false: NRZ encoding includes an explicit clock that can be used by clock recovery logic
+co=
+# Question 'cp': True or false: Bluetooth is used to connect mobile phones, network computers and other personal devices because it provides higher bandwidth at short ranges than Wi-Fi can provide
+cp=
+# Question 'cq': True or false: Broadcast Ethernet frames use a special preamble code consisting of all 1s, so that every device on the Ethernet knows to listen
+cq=
+# Question 'cr': True or false: Twisted-Pair Ethernet increases the maximum length of network segments compared with original Ethernet
+cr=
+# Question 'cs': True or false: In 802.11, if both DS bits are set to 1, the fourth address field identifies the original source
+cs=
+# Question 'ct': True or false: When a node wishes to transmit a frame, it must wait for a network adaptor to receive a Clear To Send indication from the connected node
+ct=
+# Question 'cu': True or false: In 10Base2, the Base refers to ``baseband''
+cu=
+# Question 'cv': True or false: Two-dimensional parity is parity performed in two different directions, and also includes the parity of the parity
+cv=
+# Question 'cw': True or false: The Internet Protocol uses a CRC to detect transmission errors
+cw=
+# Question 'cx': True or false: The Internet Architecture forms an hour-glass shape with the Internet Protocol as the focal point
+cx=
