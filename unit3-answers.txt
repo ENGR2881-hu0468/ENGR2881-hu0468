@@ -138,41 +138,41 @@ END:ch
 # Question 'ci': Define a network that consists of a line network and a bus network connected by a router}
 BEGIN:ci
 END:ci
-# Question 'ci': Define a network layout that would be suitable for a Client-Server architecture}
-BEGIN:ci
-END:ci
-# Question 'cj': Define a network layout that would be suitable for a Peer-to-Peer architecture}
+# Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
 END:cj
+# Question 'ck': Define a network layout that would be suitable for a Peer-to-Peer architecture}
+BEGIN:ck
+END:ck
 ## Write statements that are true or false for various lecture slides.
 cl=
 # Question 'cl': Write a true statement about the content of Slide 30 of Chapter 4
 cl=
 cl=QUIZ:1:30:4
-# Question 'cl': Write a true statement about the content of Slide 20 of Chapter 2
+# Question 'cm': Write a true statement about the content of Slide 20 of Chapter 2
 cl=
-cl=QUIZ:1:20:2
-# Question 'cl': Write a false statement about the content of Slide 81 of Chapter 3
+cm=QUIZ:1:20:2
+# Question 'cn': Write a false statement about the content of Slide 81 of Chapter 3
 cl=
-cl=QUIZ:0:81:3
-# Question 'cl': Write a false statement about the content of Slide 50 of Chapter 2
+cn=QUIZ:0:81:3
+# Question 'co': Write a false statement about the content of Slide 50 of Chapter 2
 cl=
-cl=QUIZ:0:50:2
-# Question 'cl': Write a true statement about the content of Slide 22 of Chapter 2
+co=QUIZ:0:50:2
+# Question 'cp': Write a true statement about the content of Slide 22 of Chapter 2
 cl=
-cl=QUIZ:1:22:2
-# Question 'cl': Write a true statement about the content of Slide 72 of Chapter 3
+cp=QUIZ:1:22:2
+# Question 'cq': Write a true statement about the content of Slide 72 of Chapter 3
 cl=
-cl=QUIZ:1:72:3
-# Question 'cl': Write a true statement about the content of Slide 37 of Chapter 2
+cq=QUIZ:1:72:3
+# Question 'cr': Write a true statement about the content of Slide 37 of Chapter 2
 cl=
-cl=QUIZ:1:37:2
-# Question 'cl': Write a false statement about the content of Slide 140 of Chapter 2
+cr=QUIZ:1:37:2
+# Question 'cs': Write a false statement about the content of Slide 140 of Chapter 2
 cl=
-cl=QUIZ:0:140:2
-# Question 'cl': Write a false statement about the content of Slide 71 of Chapter 3
+cs=QUIZ:0:140:2
+# Question 'ct': Write a false statement about the content of Slide 71 of Chapter 3
 cl=
-cl=QUIZ:0:71:3
-# Question 'cl': Write a true statement about the content of Slide 114 of Chapter 3
+ct=QUIZ:0:71:3
+# Question 'cu': Write a true statement about the content of Slide 114 of Chapter 3
 cl=
-cl=QUIZ:1:114:3
+cu=QUIZ:1:114:3
