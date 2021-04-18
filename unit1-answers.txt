@@ -1,149 +1,149 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Provides support for common services
-ab=
+ab=7
 # Question 'ac': Which layer best fits this statement: The layer where virtual circuits can be established
-ac=
+ac=3
 # Question 'ad': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-ad=
+ad=2
 # Question 'ae': Which layer best fits this statement: Defines the electrical specifications of a data connection
-ae=
+ae=1
 # Question 'af': Which layer best fits this statement: Responsible for synchronising multiple media streams, such as audio and video in a video conference
-af=
+af=5
 # Question 'ag': Which layer best fits this statement: Defines the physical specifications of a data connection
-ag=
+ag=1
 # Question 'ah': Which layer best fits this statement: De-duplicates received packets
-ah=
+ah=4
 # Question 'ai': Which layer best fits this statement: Corrects the order of received packets, if they are received out of order
-ai=
+ai=4
 # Question 'aj': Which layer best fits this statement: Allows data to be delivered over a variety of underlying network types
-aj=
+aj=4
 # Question 'ak': Which layer best fits this statement: The primary layer responsible for reliable delivery of data
-ak=
+ak=2
 # Question 'al': Which layer best fits this statement: Moves frames of data between nodes on the network
-al=
+al=2
 # Question 'am': Which layer best fits this statement: Responsible for bit and symbol synchronisation
-am=
+am=1
 # Question 'an': Which layer best fits this statement: Facilitates connectionless communications between nodes on large networks
-an=
+an=7
 # Question 'ao': Which layer best fits this statement: Responsible for media access control
-ao=
+ao=2
 # Question 'ap': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ap=
+ap=2
 # Question 'aq': Which layer best fits this statement: Serialises data structures so that they can be sent, received and correctly interpreted at the other end of a network
-aq=
+aq=6
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: Transport Layer Security (TLS)
-ar=
+ar=4
 # Question 'as': To which layer does this protocol correspond?: Datagram Congestion Control Protocol (DCCP)
-as=
+as=4
 # Question 'at': To which layer does this protocol correspond?: TransferJet
-at=
+at=1
 # Question 'au': To which layer does this protocol correspond?: Network Time Protocol (NTP)
-au=
+au=7
 # Question 'av': To which layer does this protocol correspond?: Multiprotocol Label Switching (MPLS)
-av=
+av=2
 # Question 'aw': To which layer does this protocol correspond?: Sockets Direct Protocol (SDP)
-aw=
+aw=3
 # Question 'ax': To which layer does this protocol correspond?: L2TP
-ax=
+ax=2
 # Question 'ay': To which layer does this protocol correspond?: Port Aggregation Protocol (PAgP)
-ay=
+ay=2
 # Question 'az': To which layer does this protocol correspond?: International Telecommunication Union (ITU)
-az=
+az=1
 # Question 'ba': To which layer does this protocol correspond?: VLAN
-ba=
+ba=2
 # Question 'bb': To which layer does this protocol correspond?: Plan 9 from Bell Labs (Plan 9)
-bb=
+bb=5
 # Question 'bc': To which layer does this protocol correspond?: Asynchronous Transfer Mode (ATM)
-bc=
+bc=2
 # Question 'bd': To which layer does this protocol correspond?: LLDP-MED
-bd=
+bd=2
 # Question 'be': To which layer does this protocol correspond?: HTTP
-be=
+be=7
 # Question 'bf': To which layer does this protocol correspond?: Point-to-point tunneling protocol (PPTP)
-bf=
+bf=2
 # Question 'bg': To which layer does this protocol correspond?: Message Transfer Part
-bg=
+bg=7
 # Question 'bh': Can applications on nodes 5 and 3 communicate?
-bh=
+bh=N
 # Question 'bi': If an application on node 5 sends 496 bytes of byte, how large would the PDU be at layer 2?
-bi=
+bi=745
 # Question 'bj': What is the data rate that is possible between nodes 5 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bj=
+bj=3071
 # Question 'bk': How many milli-seconds would it take node 5 to send 5277 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bk=
+bk=493
 # Question 'bl': Can applications on nodes 5 and 4 communicate?
-bl=
+bl=Y
 # Question 'bm': If an application on node 1 sends 602 bytes of byte, how large would the PDU be at layer 2?
-bm=
+bm=929
 # Question 'bn': What is the data rate that is possible between nodes 1 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bn=
+bn=9346
 # Question 'bo': How many milli-seconds would it take node 1 to send 563 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bo=
+bo=750
 # Question 'bp': Can applications on nodes 4 and 0 communicate?
-bp=
+bp=N
 # Question 'bq': If an application on node 0 sends 584 bytes of byte, how large would the PDU be at layer 4?
-bq=
+bq=722
 # Question 'br': What is the data rate that is possible between nodes 0 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-br=
+br=6792
 # Question 'bs': How many milli-seconds would it take node 0 to send 6048 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=
+bs=1327
 # Question 'bt': Can applications on nodes 0 and 1 communicate?
-bt=
+bt=Y
 # Question 'bu': If an application on node 5 sends 512 bytes of byte, how large would the PDU be at layer 4?
-bu=
+bu=834
 # Question 'bv': What is the data rate that is possible between nodes 5 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bv=
+bv=1839
 # Question 'bw': How many milli-seconds would it take node 5 to send 6912 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bw=
+bw=879
 # Question 'bx': Can applications on nodes 4 and 3 communicate?
-bx=
+bx=N
 # Question 'by': If an application on node 4 sends 961 bytes of byte, how large would the PDU be at layer 7?
-by=
+by=1016
 # Question 'bz': What is the data rate that is possible between nodes 4 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bz=
+bz=1238
 # Question 'ca': How many milli-seconds would it take node 4 to send 8069 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=
+ca=1314
 # Question 'cb': Can applications on nodes 3 and 2 communicate?
-cb=
+cb=Y
 # Question 'cc': If an application on node 2 sends 576 bytes of byte, how large would the PDU be at layer 5?
-cc=
+cc=710
 # Question 'cd': What is the data rate that is possible between nodes 2 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cd=
+cd=7230
 # Question 'ce': How many milli-seconds would it take node 2 to send 418 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ce=
+ce=1326
 # Question 'cf': Can applications on nodes 4 and 0 communicate?
-cf=
+cf=N
 # Question 'cg': If an application on node 1 sends 871 bytes of byte, how large would the PDU be at layer 6?
-cg=
+cg=960
 # Question 'ch': What is the data rate that is possible between nodes 1 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ch=
+ch=3872
 # Question 'ci': How many milli-seconds would it take node 1 to send 4768 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ci=
+ci=1193
 # Question 'cj': Can applications on nodes 2 and 0 communicate?
-cj=
+cj=N
 # Question 'ck': If an application on node 2 sends 698 bytes of byte, how large would the PDU be at layer 1?
-ck=
+ck=1124
 # Question 'cl': What is the data rate that is possible between nodes 2 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cl=
+cl=699
 # Question 'cm': How many milli-seconds would it take node 2 to send 9521 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cm=
+cm=603
 # Question 'cn': Can applications on nodes 3 and 2 communicate?
-cn=
+cn=Y
 # Question 'co': If an application on node 1 sends 928 bytes of byte, how large would the PDU be at layer 7?
-co=
+co=960
 # Question 'cp': What is the data rate that is possible between nodes 1 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cp=
+cp=1487
 # Question 'cq': How many milli-seconds would it take node 1 to send 444 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cq=
+cq=1535
 # Question 'cr': Can applications on nodes 2 and 5 communicate?
-cr=
+cr=N
 # Question 'cs': If an application on node 0 sends 38 bytes of byte, how large would the PDU be at layer 1?
-cs=
+cs=354
 # Question 'ct': What is the data rate that is possible between nodes 0 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ct=
+ct=4065
 # Question 'cu': How many milli-seconds would it take node 0 to send 4534 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cu=
+cu=990
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
 cv=
