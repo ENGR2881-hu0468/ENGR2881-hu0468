@@ -1,54 +1,54 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The recv() function for the C programming language is less flexible than the recvfrom() function.
-ab=
+ab=f
 # Question 'ac': True or false: The accept() function for the C programming language accepts all waiting network sockets each time it is called.
-ac=
+ac=t
 # Question 'ad': True or false: The accept() function for the C programming language checks for newly received socket connections.
-ad=
+ad=t
 # Question 'ae': True or false: The send() function for the C programming language performs the same function as write(), but without the possibility to set flags.
-ae=
+ae=f
 # Question 'af': True or false: The listen() function for the C programming language marks a socket as `passive', ready to accept new connections.
-af=
+af=t
 # Question 'ag': True or false: The read() function for the C programming language is the best choice for reading data from a UDP socket.
-ag=
+ag=f
 # Question 'ah': True or false: The socket() function for the C programming language sets the address of a network socket
-ah=
+ah=t
 # Question 'ai': True or false: The connect() function for the C programming language normally requires the network address and layer 4 address of the target.
-ai=
+ai=f
 # Question 'aj': True or false: The read() function for the C programming language can be used to receive data from sockets.
-aj=
+aj=f
 # Question 'ak': True or false: A network socket usually contains addressing information for layer 3, but not layer 4
-ak=
+ak=t
 # Question 'al': True or false: The write() function for the C programming language can be used to write data to a socket.
-al=
+al=f
 # Question 'am': True or false: A network socket includes port numbers as well as IP addresses
-am=
+am=t
 # Question 'an': True or false: The bind() function for the C programming language requires a socket to already exist
-an=
+an=t
 # Question 'ao': True or false: The bind() function for the C programming language restricts the permissions of a network socket
-ao=
+ao=t
 # Question 'ap': True or false: The socket() function for the C programming language can create sockets for various network protocols.
-ap=
+ap=f
 ## Correct the lines in the supplied programme
-aq=
-ar=
-as=
-at=
-au=
-av=
-aw=
-ax=
-ay=
+aq=3
+ar=9
+as=6
+at=1
+au=7
+av=2
+aw=5
+ax=8
+ay=4
 ## Correct the lines in the supplied programme
-az=
-ba=
-bb=
-bc=
-bd=
-be=
-bf=
-bg=
-bh=
-bi=
-bj=
-bk=
+az=3
+ba=7
+bb=6
+bc=1
+bd=4
+be=5
+bf=12
+bg=11
+bh=8
+bi=9
+bj=2
+bk=10
