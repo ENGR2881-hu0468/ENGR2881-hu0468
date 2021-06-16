@@ -34,11 +34,11 @@ aq=3
 ar=9
 as=6
 at=1
-au=7
-av=2
-aw=5
-ax=8
-ay=4
+au=4
+av=7
+aw=2
+ax=5
+ay=8
 ## Correct the lines in the supplied programme
 az=3
 ba=7
