@@ -170,9 +170,9 @@ co=an overview of what source need to do without suopport for Multicast
 # Question 'cp': Write a true statement about the content of Slide 20 of Chapter 2
 cp=examples to show how 4B/5B encoding works
 # Question 'cq': Write a false statement about the content of Slide 81 of Chapter 3
-cq=how CIDR works efficiently for using aggregate routes and balance the desire
+cq=they didnt show how CIDR works efficiently for using aggregate routes and balance the desire
 # Question 'cr': Write a false statement about the content of Slide 50 of Chapter 2
-cr=explain the properties of generator polynomial
+cr=they didnt explain the properties of generator polynomial
 # Question 'cs': Write a true statement about the content of Slide 22 of Chapter 2
 cs=explain what happen in slide 21 and show how it work
 # Question 'ct': Write a true statement about the content of Slide 72 of Chapter 3
@@ -180,8 +180,8 @@ ct=strategy of datagram and example for rouer R2
 # Question 'cu': Write a true statement about the content of Slide 37 of Chapter 2
 cu=explain what is two-dimensional parity
 # Question 'cv': Write a false statement about the content of Slide 140 of Chapter 2
-cv=the way now people access network
+cv=they are not the way now people access network
 # Question 'cw': Write a false statement about the content of Slide 71 of Chapter 3
-cw=the properties, format and dot notation of global addresses
+cw=they are not the properties, format and dot notation of global addresses
 # Question 'cx': Write a true statement about the content of Slide 114 of Chapter 3
 cx=each switch uses Dijkstra'salgorithm
