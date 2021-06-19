@@ -33,22 +33,22 @@ END:ad
 ## Write statements that are true or false for various lecture slides.
 ae=y
 # Question 'af': Write a false statement about the content of Slide 28 of Chapter 3
-af=introduction of setting up “permanent” VCs in real networks
+af=they are not the introduction of setting up “permanent” VCs in real networks
 # Question 'ag': Write a false statement about the content of Slide 4 of Chapter 3
-ag=chapter goal:Understanding the functions of switches, bridges and routers
+ag=they are not the chapter goal:Understanding the functions of switches, bridges and routers
 Discussing  IP for interconnecting networks
 Understanding the concept of routing
 # Question 'ah': Write a false statement about the content of Slide 20 of Chapter 5
-ah=point of TCP header
+ah=they are not point of TCP header
 # Question 'ai': Write a false statement about the content of Slide 72 of Chapter 3
-ai=strategy of IP datagram and example of router R2
+ai=they are not strategy of IP datagram and example of router R2
 # Question 'aj': Write a false statement about the content of Slide 45 of Chapter 1
-aj=performance, some formula of Latency,Propagation,Transmit
+aj=they are not performance, some formula of Latency,Propagation,Transmit
 show two important Comparison of bit transmission
 # Question 'ak': Write a false statement about the content of Slide 60 of Chapter 2
-ak=explain last ppt and calculate sending rate
+ak=they are not explain last ppt and calculate sending rate
 # Question 'al': Write a false statement about the content of Slide 35 of Chapter 2
-al=the basic example of error detection
+al=they are not the basic example of error detection
 # Question 'am': Write a true statement about the content of Slide 45 of Chapter 3
 am=how the bridge learn information by itself
 # Question 'an': Write a true statement about the content of Slide 27 of Chapter 3
