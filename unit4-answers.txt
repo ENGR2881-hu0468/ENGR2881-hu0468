@@ -1,34 +1,57 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'cryptographic hash functions and vulnerabilities (eg MD5 and successors)'
 BEGIN:ab
+A cryptographic hash function is a mathematical function used in cryptography.
+A cryptographic hash function takes a message as input and produces a message digest using a hash function
+vulnerabilities for cryptographic hash function such as MD5 may have collisions and sometimes output length greater than the fixed length
 END:ab
 # Question 'ac': Write not more than 250 words about 'assymetric encryption'
 BEGIN:ac
+Asymmetric encryption is a type of encryption that uses two separates yet mathematically related keys to encrypt and decrypt data
+Asymmetric encryption is a way for you to verify third parties that you’ve never met via public channels that are insecure
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+the history and evolution of SSL/TLS and PKI ecosystem
+1994 SSL V2
+1995 PCT V1.0, SSL V3
+1999 TLS V1.0
+2006 TLS 1.1
+2007 Extended Validation Certificates
+2008 TLS 1.2
+2009 SSL Labs
+2010 HSTS preloading,SSL Labs: State of SSL,EFF: SSL Observatory,SPDY,False Start
+2011 Prohibiting SSL Version 2.0,Convergence,Public key pinning,Google deploys forward secrecy
+2012 HTTP/2 call for proposals,SSL Pulse
+2015 TLS Feature Extension
+2018 TLS 1.3 approved,TLS 1.3 published as RFC 8446
+2020 Browsers disable TLS 1.0 and 1.1
+2021 IETF formally deprecates TLS 1.0 and 1.1
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=y
 # Question 'af': Write a false statement about the content of Slide 28 of Chapter 3
-af=
+af=introduction of setting up “permanent” VCs in real networks
 # Question 'ag': Write a false statement about the content of Slide 4 of Chapter 3
-ag=
+ag=chapter goal:Understanding the functions of switches, bridges and routers
+Discussing  IP for interconnecting networks
+Understanding the concept of routing
 # Question 'ah': Write a false statement about the content of Slide 20 of Chapter 5
-ah=
+ah=point of TCP header
 # Question 'ai': Write a false statement about the content of Slide 72 of Chapter 3
-ai=
+ai=strategy of IP datagram and example of router R2
 # Question 'aj': Write a false statement about the content of Slide 45 of Chapter 1
-aj=
+aj=performance, some formula of Latency,Propagation,Transmit
+show two important Comparison of bit transmission
 # Question 'ak': Write a false statement about the content of Slide 60 of Chapter 2
-ak=
+ak=explain last ppt and calculate sending rate
 # Question 'al': Write a false statement about the content of Slide 35 of Chapter 2
-al=
+al=the basic example of error detection
 # Question 'am': Write a true statement about the content of Slide 45 of Chapter 3
-am=
+am=how the bridge learn information by itself
 # Question 'an': Write a true statement about the content of Slide 27 of Chapter 3
-an=
+an=continue to introduce switchs
 # Question 'ao': Write a true statement about the content of Slide 4 of Chapter 4
 ao=
