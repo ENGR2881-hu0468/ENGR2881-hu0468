@@ -54,4 +54,4 @@ am=how the bridge learn information by itself
 # Question 'an': Write a true statement about the content of Slide 27 of Chapter 3
 an=continue to introduce switchs
 # Question 'ao': Write a true statement about the content of Slide 4 of Chapter 4
-ao=
+ao=chapter goal:Understanding the scalability of routing in the Internet;Discussing IPv6;Understanding evolution of Internet functionality
